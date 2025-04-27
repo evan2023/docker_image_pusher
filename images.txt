@@ -7,3 +7,5 @@ nginx
 jumpserver/jms_all:v4.7.0
 redis:7.4.2
 mariadb:11.7.2
+
+
